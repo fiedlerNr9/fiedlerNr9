@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jan Fiedler
+- Kineo ai rocks!! 🔥🔥🔥
