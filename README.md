@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Jan Fiedler
-- Kineo ai rocks!! 🔥🔥🔥
+**Jan Fiedler - Technical Solutions Architect, Platform Engineering at Union.ai**
